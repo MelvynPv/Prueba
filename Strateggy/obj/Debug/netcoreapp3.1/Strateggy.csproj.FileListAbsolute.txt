@@ -1,0 +1,11 @@
+D:\ProyectosParacticas\Estrategia\Ejercicio1\Strateggy\Strateggy\bin\Debug\netcoreapp3.1\Strateggy.exe
+D:\ProyectosParacticas\Estrategia\Ejercicio1\Strateggy\Strateggy\bin\Debug\netcoreapp3.1\Strateggy.deps.json
+D:\ProyectosParacticas\Estrategia\Ejercicio1\Strateggy\Strateggy\bin\Debug\netcoreapp3.1\Strateggy.runtimeconfig.json
+D:\ProyectosParacticas\Estrategia\Ejercicio1\Strateggy\Strateggy\bin\Debug\netcoreapp3.1\Strateggy.runtimeconfig.dev.json
+D:\ProyectosParacticas\Estrategia\Ejercicio1\Strateggy\Strateggy\bin\Debug\netcoreapp3.1\Strateggy.dll
+D:\ProyectosParacticas\Estrategia\Ejercicio1\Strateggy\Strateggy\bin\Debug\netcoreapp3.1\Strateggy.pdb
+D:\ProyectosParacticas\Estrategia\Ejercicio1\Strateggy\Strateggy\obj\Debug\netcoreapp3.1\Strateggy.csprojAssemblyReference.cache
+D:\ProyectosParacticas\Estrategia\Ejercicio1\Strateggy\Strateggy\obj\Debug\netcoreapp3.1\Strateggy.AssemblyInfoInputs.cache
+D:\ProyectosParacticas\Estrategia\Ejercicio1\Strateggy\Strateggy\obj\Debug\netcoreapp3.1\Strateggy.AssemblyInfo.cs
+D:\ProyectosParacticas\Estrategia\Ejercicio1\Strateggy\Strateggy\obj\Debug\netcoreapp3.1\Strateggy.dll
+D:\ProyectosParacticas\Estrategia\Ejercicio1\Strateggy\Strateggy\obj\Debug\netcoreapp3.1\Strateggy.pdb
